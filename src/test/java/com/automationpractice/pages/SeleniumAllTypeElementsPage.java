@@ -164,6 +164,7 @@ public class SeleniumAllTypeElementsPage {
 		
 	}
 	
+	// This method is not working for some reason
 	public void CheckDragAndDropTesting() {
 		
 		WebElement from = driver.findElement(imageToDragCheck);
