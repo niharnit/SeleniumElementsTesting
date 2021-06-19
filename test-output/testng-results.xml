@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="11" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-19T02:21:51 EDT" name="Suite" finished-at="2021-06-19T02:23:51 EDT" duration-ms="120283">
+    <groups>
+    </groups>
+    <test started-at="2021-06-19T02:21:51 EDT" name="Test" finished-at="2021-06-19T02:23:51 EDT" duration-ms="120283">
+      <class name="com.automationpractice.testcases.SeleniumAllTypeElementsTestCase">
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:21:51 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:22:02 EDT" duration-ms="11050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="TextMessageTesting()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:02 EDT" name="TextMessageTesting" finished-at="2021-06-19T02:22:02 EDT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TextMessageTesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:02 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:22:02 EDT" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TextMessageTesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.TextMessageTesting()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:02 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:22:10 EDT" duration-ms="7894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="LinkTesting()[pri:1, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:10 EDT" name="LinkTesting" finished-at="2021-06-19T02:22:17 EDT" duration-ms="6240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkTesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:17 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:22:21 EDT" duration-ms="4600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LinkTesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.LinkTesting()[pri:1, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:21 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:22:29 EDT" duration-ms="7507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="TextBoxTesting()[pri:2, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:29 EDT" name="TextBoxTesting" finished-at="2021-06-19T02:22:31 EDT" duration-ms="2193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TextBoxTesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:31 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:22:35 EDT" duration-ms="4249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TextBoxTesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.TextBoxTesting()[pri:2, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:35 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:22:43 EDT" duration-ms="7845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="Buttontesting()[pri:3, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:43 EDT" name="Buttontesting" finished-at="2021-06-19T02:22:45 EDT" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buttontesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:45 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:22:45 EDT" duration-ms="344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Buttontesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.Buttontesting()[pri:3, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:45 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:22:53 EDT" duration-ms="7772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="RadioButtonTesting()[pri:4, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:53 EDT" name="RadioButtonTesting" finished-at="2021-06-19T02:22:55 EDT" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioButtonTesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:55 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:22:56 EDT" duration-ms="268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RadioButtonTesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.RadioButtonTesting()[pri:4, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:22:56 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:23:03 EDT" duration-ms="7747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="CheckBoxTesting()[pri:5, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:03 EDT" name="CheckBoxTesting" finished-at="2021-06-19T02:23:05 EDT" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBoxTesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:05 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:23:09 EDT" duration-ms="3890" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckBoxTesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.CheckBoxTesting()[pri:5, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:09 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:23:17 EDT" duration-ms="7532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="CheckDropBoxTesting()[pri:6, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:17 EDT" name="CheckDropBoxTesting" finished-at="2021-06-19T02:23:19 EDT" duration-ms="2172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDropBoxTesting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:19 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:23:19 EDT" duration-ms="359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckDropBoxTesting status=SUCCESS method=SeleniumAllTypeElementsTestCase.CheckDropBoxTesting()[pri:6, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:19 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:23:28 EDT" duration-ms="8959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="CheckAlertTestingDoubleClick()[pri:7, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:28 EDT" name="CheckAlertTestingDoubleClick" finished-at="2021-06-19T02:23:31 EDT" duration-ms="2351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAlertTestingDoubleClick -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:31 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:23:31 EDT" duration-ms="284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckAlertTestingDoubleClick status=SUCCESS method=SeleniumAllTypeElementsTestCase.CheckAlertTestingDoubleClick()[pri:7, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:31 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:23:39 EDT" duration-ms="7780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="CheckAlertTestingSingleClick()[pri:8, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:39 EDT" name="CheckAlertTestingSingleClick" finished-at="2021-06-19T02:23:41 EDT" duration-ms="2130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAlertTestingSingleClick -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:41 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:23:41 EDT" duration-ms="223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckAlertTestingSingleClick status=SUCCESS method=SeleniumAllTypeElementsTestCase.CheckAlertTestingSingleClick()[pri:8, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="OpenElementsTestingUrl()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:41 EDT" name="OpenElementsTestingUrl" finished-at="2021-06-19T02:23:49 EDT" duration-ms="7577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenElementsTestingUrl -->
+        <test-method signature="ChecksConfirmationAlertTeting()[pri:9, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:49 EDT" name="ChecksConfirmationAlertTeting" finished-at="2021-06-19T02:23:51 EDT" duration-ms="2223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChecksConfirmationAlertTeting -->
+        <test-method is-config="true" signature="closeElementsTestingUrl(org.testng.ITestResult)[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:51 EDT" name="closeElementsTestingUrl" finished-at="2021-06-19T02:23:51 EDT" duration-ms="247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ChecksConfirmationAlertTeting status=SUCCESS method=SeleniumAllTypeElementsTestCase.ChecksConfirmationAlertTeting()[pri:9, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeElementsTestingUrl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.SeleniumAllTypeElementsTestCase@4b45dcb8]" started-at="2021-06-19T02:23:51 EDT" name="tearDown" finished-at="2021-06-19T02:23:52 EDT" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.testcases.SeleniumAllTypeElementsTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
