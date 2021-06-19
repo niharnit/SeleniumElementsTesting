@@ -34,7 +34,7 @@ public class Helper {
 		Date currentDate = new Date();
 		return customFormat.format(currentDate);
 	}	
-	
+	//The below method used to add wait time based on arugument in seconds
 	public static void delayInSeconds(int delayNumber) {
 		
 		try {
